@@ -4,6 +4,6 @@ const dropdowns = document.querySelectorAll(".dropdown select");
 
 for (let select of dropdown) {
     for(currCode in countryList) {
-        let newOption = 
+        
     }
 }
